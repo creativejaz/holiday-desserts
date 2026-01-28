@@ -180,7 +180,7 @@ h1 span {
   color: #7BC5FF;
   font-family: Cormorant;
   line-height: 1.15;
-  /* 👈 don’t clamp to 1 */
+  /* ðŸ‘ˆ donâ€™t clamp to 1 */
 }
 
 /*UKRAINE------------------------------------*/
